@@ -12,7 +12,7 @@ Atualmente, trabalho com Desenvolvimento Front-End usando principalmente Typescr
 - 👯 Procurando colaborar em projetos que me tirem da zona de conforto;
 - 🤔 Estou procurando ajuda com mentoria de carreira;
 - 💬 Pergunte me sobre: jogos, música, tecnologia ou literalmente qualquer coisa.. Eu realmente gosto de conversar 😜;
-- 📫 Como entrar em contato: [aqui está meu Twitter]() e [meu Linkedin]() sinta-se livre paca me chamar!
+- 📫 Como entrar em contato: [aqui está meu Twitter](https://twitter.com/marcellofront) e [meu Linkedin](https://www.linkedin.com/in/marcellolopes30/) sinta-se livre paca me chamar!
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Eu AMO curiosidades, sobre qualquer coisa! Praticamente toda frase que começa com "Você sabia que..." me prende a atenção na hora.
 -------
@@ -30,7 +30,7 @@ Nowadays, I work with Front-End development using Typescript and React ecossyste
 - 👯 I’m looking to collaborate on projects that push me forward;
 - 🤔 I’m looking for help with carreer mentoring
 - 💬 Ask me about games, music, computer science or literally anything, I do enjoy to chat a lot 😜;
-- 📫 How to reach me: [here's my Twitter]() and [my Linkedin]() feel free to get in touch!
+- 📫 How to reach me: [here's my Twitter](https://twitter.com/marcellofront) and [my Linkedin](https://www.linkedin.com/in/marcellolopes30/) feel free to get in touch!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love curiosities from anything! Any phrase that starts with "Do you know that..." grabs my attention.
 
